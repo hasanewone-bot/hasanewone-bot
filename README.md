@@ -1,6 +1,6 @@
 <!-- Banner Start -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&text=AMNA%20ASHRAF&font=League+Spartan&color=gradient&height=120&section=header" alt="HASSAN ALI Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&text=HASSAN%20ALI&font=League+Spartan&color=gradient&height=120&section=header" alt="HASSAN ALI Banner"/>
 </p>
 <p align="center" style="font-family: 'Fira Code', monospace; font-size: 16px; color: #fff;">
   FRONTEND DEVELOPER
@@ -13,7 +13,7 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴀᴍɴᴀ ᴀsʜʀᴀꜰ!
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ HASSAN ALI!
 *Frontend & Mobile Developer*
 <br />
 

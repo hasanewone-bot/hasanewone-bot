@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&text=AMNA%20ASHRAF&font=League+Spartan&color=gradient&height=120&section=header" alt="HASSAN ALI Banner"/>
 </p>
 <p align="center" style="font-family: 'Fira Code', monospace; font-size: 16px; color: #fff;">
-  FRONTEND & MOBILE DEVELOPER
+  FRONTEND DEVELOPER
 </p>
 <!-- Banner End -->
 

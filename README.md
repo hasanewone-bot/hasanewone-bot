@@ -14,16 +14,16 @@
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ HASSAN ALI!
-*Frontend & Mobile Developer*
+*Frontend Developer*
 <br />
 
 <!--Start Intro-->               
-<p align="left">I'm a self-taught Frontend and Mobile Developer from Fort Abbas, Pakistan. I love building interactive web apps and mobile apps using HTML, CSS, JavaScript, TypeScript, React, React Native, Node.js.</p>
+<p align="left">I'm a self-taught Frontend and Mobile Developer from Fort Abbas, Pakistan. I love building interactive web apps and mobile apps using HTML, CSS, JavaScript, TypeScript, React, Node.js.</p>
 
 ✨ Lifelong learner and tech enthusiast.  
 - 🌱 Currently exploring advanced React Native and TypeScript.  
-- 💻 Check my projects on <a href="https://github.com/amnaharaf272">GitHub</a>.  
-- 📫 Reach me via <a href="mailto:amnaharaf272@gmail.com">Email</a>.  
+- 💻 Check my projects on <a href="https://github.com/hasanewone-bot">GitHub</a>.  
+- 📫 Reach me via <a href="mailto:hasanewone@gmail.com">Email</a>.  
 - ❤ Open source contributor and Figma-to-code experimenter.  
 
 <!--Profile Count Badge-->
@@ -49,8 +49,6 @@
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
     </p>
@@ -60,8 +58,8 @@
   <td valign="top" width="50%">
     <h3>🌱 Currently Learning</h3>
     <ul align="left">
-      <li>Advanced React Native concepts and animations.</li>
-      <li>TypeScript best practices and strong typing.</li>
+      <li>Advanced wordpress concepts.</li>
+      <li>javaScript best practices and strong typing.</li>
     </ul>
   </td>
 </tr>
@@ -70,9 +68,9 @@
 <!--Connect Section-->
 <h2 align="center">🤝 Connect With Me</h2>
 <div align="center">
-  <a href="mailto:amnaharaf272@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/amnaharaf272"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" /></a>
-  <a href="https://www.github.com/amnaharaf272"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" alt="GitHub" /></a>
+  <a href="mailto:hasanewone@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/hasan-ali-ab1330347"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" /></a>
+  <a href="https://github.com/hasanewone-bot"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" alt="GitHub" /></a>
 </div>
 <br />
 

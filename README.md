@@ -18,10 +18,10 @@
 <br />
 
 <!--Start Intro-->               
-<p align="left">I'm a self-taught Frontend and Mobile Developer from Fort Abbas, Pakistan. I love building interactive web apps and mobile apps using HTML, CSS, JavaScript, TypeScript, React, Node.js.</p>
+<p align="left">I am currently studying in 12th class and have completed a Certificate in Information Technology (CIT). I am also learning Web Development and have almost completed my training in HTML, CSS, JS, and creating responsive websites. I am passionate about technology and eager to apply my skills in real-world projects while continuing to grow in the field of front-end development.</p>
 
 ✨ Lifelong learner and tech enthusiast.  
-- 🌱 Currently exploring advanced React Native and TypeScript.  
+- 🌱 Currently exploring advanced wordpress and node.js.  
 - 💻 Check my projects on <a href="https://github.com/hasanewone-bot">GitHub</a>.  
 - 📫 Reach me via <a href="mailto:hasanewone@gmail.com">Email</a>.  
 - ❤ Open source contributor and Figma-to-code experimenter.  
@@ -32,9 +32,6 @@
 </p>
 
 ---
-
-<!--Tech Stack & Learning-->
-<h2 align="center">Tᴇᴄʜ Sᴛᴀᴄᴋ & Cᴜʀʀᴇɴᴛ Lᴇᴀʀɴɪɴɢ</h2>
 
 <table>
 <tr>
